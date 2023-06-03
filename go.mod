@@ -3,7 +3,7 @@ module github.com/xmxu/aab-parser
 go 1.19
 
 require (
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.8.2
 	golang.org/x/image v0.7.0
 	google.golang.org/protobuf v1.30.0
 )
